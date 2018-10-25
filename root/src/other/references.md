@@ -1,0 +1,1 @@
+logo = https://www.trademe.co.nz/jobs/listings/agents/4633039.htm
